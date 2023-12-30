@@ -1,4 +1,4 @@
-# dodaldodal-frontend
+# Next.js 14 Boilerplate
 
 ### 👥 Made By
 
