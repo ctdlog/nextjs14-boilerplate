@@ -1,4 +1,4 @@
-# Next.js 14 Boilerplate
+# Next.js 14 Boilerplate
 
 ### 👥 Made By
 
